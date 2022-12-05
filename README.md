@@ -4,7 +4,7 @@
 
 *Autor:* Adrian Ancajima Yangua
 
-Tarjeta: Curiosity Nano PIC18f57q84
+Tarjeta: Curiosity Nano PIC18f57Q84
 
 Entorno: MPLAB X IDE
 
